@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jfbKtwpSNK7o2IrZNAE5EPdRbmo0Im2B8XP0E2KRYkKGMWFdrU5FCC4zry64ciEKIuMHWXBKNj5GJM0akGIzjA==",
+  "success": true,
+  "projectFilePath": "C:\\wampServer64\\www\\projects\\P-Launcher\\P-Launcher_DinoGame\\02-SourceCode\\noInternetDinoGame\\noInternetDinoGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\damis\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\damis\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\damis\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\damis\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\damis\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\damis\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\damis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\damis\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\damis\\.nuget\\packages",
+      "D:\\Datas\\Dev\\webModules\\Microsoft\\VS2022\\Components\\NuGetPackages"
+    ]
+  }
+}

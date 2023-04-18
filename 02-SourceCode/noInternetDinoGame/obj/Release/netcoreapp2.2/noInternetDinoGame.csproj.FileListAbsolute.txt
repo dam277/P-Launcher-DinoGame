@@ -1,0 +1,13 @@
+C:\Users\damis\Desktop\developpement\01-Github\01-Projets\DinoGame\02-CodeSource\Application\noInternetDinoGame\bin\Release\netcoreapp2.2\noInternetDinoGame.deps.json
+C:\Users\damis\Desktop\developpement\01-Github\01-Projets\DinoGame\02-CodeSource\Application\noInternetDinoGame\bin\Release\netcoreapp2.2\noInternetDinoGame.runtimeconfig.json
+C:\Users\damis\Desktop\developpement\01-Github\01-Projets\DinoGame\02-CodeSource\Application\noInternetDinoGame\bin\Release\netcoreapp2.2\noInternetDinoGame.runtimeconfig.dev.json
+C:\Users\damis\Desktop\developpement\01-Github\01-Projets\DinoGame\02-CodeSource\Application\noInternetDinoGame\bin\Release\netcoreapp2.2\noInternetDinoGame.dll
+C:\Users\damis\Desktop\developpement\01-Github\01-Projets\DinoGame\02-CodeSource\Application\noInternetDinoGame\bin\Release\netcoreapp2.2\noInternetDinoGame.pdb
+C:\Users\damis\Desktop\developpement\01-Github\01-Projets\DinoGame\02-CodeSource\Application\noInternetDinoGame\obj\Release\netcoreapp2.2\noInternetDinoGame.csproj.AssemblyReference.cache
+C:\Users\damis\Desktop\developpement\01-Github\01-Projets\DinoGame\02-CodeSource\Application\noInternetDinoGame\obj\Release\netcoreapp2.2\noInternetDinoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damis\Desktop\developpement\01-Github\01-Projets\DinoGame\02-CodeSource\Application\noInternetDinoGame\obj\Release\netcoreapp2.2\noInternetDinoGame.AssemblyInfoInputs.cache
+C:\Users\damis\Desktop\developpement\01-Github\01-Projets\DinoGame\02-CodeSource\Application\noInternetDinoGame\obj\Release\netcoreapp2.2\noInternetDinoGame.AssemblyInfo.cs
+C:\Users\damis\Desktop\developpement\01-Github\01-Projets\DinoGame\02-CodeSource\Application\noInternetDinoGame\obj\Release\netcoreapp2.2\noInternetDinoGame.csproj.CoreCompileInputs.cache
+C:\Users\damis\Desktop\developpement\01-Github\01-Projets\DinoGame\02-CodeSource\Application\noInternetDinoGame\obj\Release\netcoreapp2.2\noInternetDinoGame.dll
+C:\Users\damis\Desktop\developpement\01-Github\01-Projets\DinoGame\02-CodeSource\Application\noInternetDinoGame\obj\Release\netcoreapp2.2\noInternetDinoGame.pdb
+C:\Users\damis\Desktop\developpement\01-Github\01-Projets\DinoGame\02-CodeSource\Application\noInternetDinoGame\obj\Release\netcoreapp2.2\noInternetDinoGame.genruntimeconfig.cache
