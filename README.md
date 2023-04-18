@@ -6,28 +6,11 @@
 <div align="center">
     <h2>Languages and libraries used for this project</h2>
     <h3> Languages </h3>
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/C.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Cpp.png" />
     <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Csharp.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Java.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Html.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Css.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Javascript.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Typescript.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Php.png" />
-    <img height="50" width="100px" src="https://github.com/dam277/dam277/raw/master/src/images/Dart.png" />
-    <img height="50" width="70px" src="https://github.com/dam277/dam277/raw/master/src/images/Rust.png" />
-    <img height="50" width="70px" src="https://github.com/dam277/dam277/raw/master/src/images/Go.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Powershell.png" />
                                                                                      <br />
     <h3> Databases </h3>
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Sql.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Sqlite.png" />
                                                                                      <br />
     <h3> Libraries </h3>
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Lwjgl.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/Sfml.png" />
-    <img height="50" src="https://github.com/dam277/dam277/raw/master/src/images/OpenGl.png" />
                                                                                      <br />
 </div>
 <div align="center">
@@ -42,8 +25,14 @@
 <div align="center">
 
    ## The project
+   The project consists to re-create the classic dino game which launched when connection lost in console.
+   The datas are saved in local and the game can be download from the launcher.
 
    ## Features
+   Save data in local   <br />
+   Jump, crouch     <br />
+   See scoreboard   <br />
+   Customize textures
 
    ## Contributors
    | <b> <a href="https://github.com/dam277">Damien Loup</a> </b>       |
