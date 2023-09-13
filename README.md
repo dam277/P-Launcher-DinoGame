@@ -29,9 +29,9 @@
    The datas are saved in local and the game can be download from the launcher.
 
    ## Features
-   Save data in local   <br />
+   Save data in a database   <br />
    Jump, crouch     <br />
-   See scoreboard   <br />
+   See own and connected scoreboard   <br />
    Customize textures
 
    ## Contributors
